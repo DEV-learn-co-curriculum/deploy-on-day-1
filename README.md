@@ -6,7 +6,7 @@ resources:
 
 # Deploy on Day One
 
-## Contents
+## The Contents
 
 |Section                            |
 |-----------------------------------|
