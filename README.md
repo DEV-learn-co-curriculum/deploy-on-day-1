@@ -227,3 +227,5 @@ A common issue is not being able to authenticate with GitHub. You need to use HT
 * [HTTPS Cloning Errors](https://help.github.com/articles/https-cloning-errors)
 * [Setting Up SSH](https://help.github.com/articles/generating-ssh-keys)
 
+
+<a href='https://learn.co/lessons/deploy-on-day-1' data-visibility='hidden'>Learn.co resource</a>
